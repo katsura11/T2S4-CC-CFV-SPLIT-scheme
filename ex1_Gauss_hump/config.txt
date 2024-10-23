@@ -1,0 +1,10 @@
+nos:1
+T_min:0
+T_max:1.5708
+N:200
+Nt:80
+T_span:10
+K:1e-3
+sigma:0.005
+over
+
